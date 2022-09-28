@@ -27,3 +27,7 @@ https://github.com/ristifilip/ristiflip/blob/main/Private-Cloud<br/>
 Hybrid-Cloud: <br/>
 Hybrid-Cloud ist für mich, wenn man OnPrem eine Umgebung hat, aber auch ein Service aus einer Public-Cloud bezieht. Dies ist beispielsweise in meinem Betrieb der Fall. Die User werden vom AzureAD täglich mit unserem OnPrem-AD synchronisiert. Zumindest was die Namen & die Gruppen aber auch die Adresse angeht. Somit sind unsere Daten deutlich sicherer, als wenn sie bei uns lokal gehostet werden.<br/>
 https://github.com/ristifilip/ristiflip/blob/main/Hybrid-Cloud<br/>
+
+
+Hilfvoller Link für genauere Infos: <br/>
+https://www.redhat.com/de/topics/cloud-computing/iaas-vs-paas-vs-saas#:~:text=Es%20gibt%20beim%20Cloud%20Computing,as%2Da%2DService).
